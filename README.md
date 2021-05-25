@@ -1,3 +1,5 @@
-# Ecommerce Store
+# Ecommerce Store with React
 
-I am building an e-commerce store with React.
+## Dependencies
+
+run npm install
