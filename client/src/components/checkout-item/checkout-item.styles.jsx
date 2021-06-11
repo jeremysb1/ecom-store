@@ -33,9 +33,11 @@ export const TextContainer = styled.span`
 
 export const QuantityContainer = styled(TextContainer)`
   display: flex;
+  
   span {
     margin: 0 10px;
   }
+  
   div {
     cursor: pointer;
   }
