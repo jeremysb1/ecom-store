@@ -1,8 +1,23 @@
+## Table of Contents
+
+## About the project
+## Technologies Used
+## Getting Started
+## Usage
+## Why React 
+## Roadmap
+
+## About the project 
+
 I built an E-commerce store to teach myself React. 
 
-This is built with JavaScript, React, Redux, Hooks, and Node. 
-
-The store also uses the Stripe Checkout API to handle secure payments. Also, The application uses OAuth for secure signin with Firesbase and uses the Firestore NoSQL database for user and store data.
+## Technologies Used
+- Javascript
+- React with Redux and Hooks
+- Node.js
+- Stripe Checkout API
+- Firebase for Authentication (SSO)
+- Firestore for NoSQL Database
 
 ## Homepage
 
@@ -15,3 +30,6 @@ The store also uses the Stripe Checkout API to handle secure payments. Also, The
 ## Sign in and Signup Page
 
 ![Signin](https://github.com/jeremysb1/png_images/blob/main/User%20Signin.png)
+
+## Roadmap
+The following features are on the product roadmap:
