@@ -1,11 +1,12 @@
+# Ecommerce Store
+
 ## Table of Contents
 
-## About the project
-## Technologies Used
-## Getting Started
-## Usage
-## Why React 
-## Roadmap
+1. About the project
+2. Technologies Used
+3. Why React
+4. Getting Started 
+5. Roadmap
 
 ## About the project 
 
@@ -19,17 +20,18 @@ I built an E-commerce store to teach myself React.
 - Firebase for Authentication (SSO)
 - Firestore for NoSQL Database
 
-## Homepage
+## Why React
 
-![Home](https://github.com/jeremysb1/png_images/blob/main/ourstore.home.png)
+React enables developers to efficiencly create applications with resuable components. 
 
-## Shop Page
+It also updates and renders the right components when the data changes while keeping state out of the DOM.
 
-![Shopage](https://github.com/jeremysb1/png_images/blob/main/Shop%20Page.png)
+## Getting Started
 
-## Sign in and Signup Page
-
-![Signin](https://github.com/jeremysb1/png_images/blob/main/User%20Signin.png)
+Fork or clone a copy of this repository to your local environment. 
 
 ## Roadmap
 The following features are on the product roadmap:
+
+- Search
+- Contact page
